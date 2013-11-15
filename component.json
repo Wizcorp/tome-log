@@ -1,0 +1,13 @@
+{
+  "name": "tome-log",
+  "repo": "Wizcorp/tome-log",
+  "description": "Overrides your console.log to log unTomed versions of tomes.",
+  "dependencies": {
+  	"Wizcorp/node-tomes": "~0.0.16"
+  },
+  "version": "0.0.2",
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
