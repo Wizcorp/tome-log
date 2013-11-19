@@ -1,7 +1,7 @@
 {
     "name": "tome-log",
     "description": "Overrides your console.log to log unTomed versions of tomes.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Wizcorp, Inc. <info@wizcorp.jp>",
     "maintainers": [
         { "name": "Bjorn Stromberg", "email": "bstromberg@wizcorp.jp" }
