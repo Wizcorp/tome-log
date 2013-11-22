@@ -1,7 +1,7 @@
 {
     "name": "tome-log",
     "description": "Overrides your console.log to log unTomed versions of tomes.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": "Wizcorp, Inc. <info@wizcorp.jp>",
     "maintainers": [
         { "name": "Bjorn Stromberg", "email": "bstromberg@wizcorp.jp" }
@@ -10,7 +10,7 @@
         "test": "./node_modules/.bin/mocha"
     },
     "dependencies": {
-    	"tomes": "~0.0.16"
+    	"tomes": ">=0.0.14"
     },
     "main": "index.js",
     "devDependencies": {
