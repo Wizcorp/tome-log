@@ -10,7 +10,7 @@
         "test": "./node_modules/.bin/mocha"
     },
     "dependencies": {
-    	"tomes": "~0.0.17"
+    	"tomes": ">=0.0.14"
     },
     "main": "index.js",
     "devDependencies": {
