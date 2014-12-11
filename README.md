@@ -5,6 +5,6 @@ tome-log
 
 Overrides your console.log to log unTomed versions of tomes.
 
-What's are tomes?
+What are tomes?
 
 [Tomes](https://github.com/Wizcorp/node-tomes) is an evented, storage agnostic data API.

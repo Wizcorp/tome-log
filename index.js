@@ -6,7 +6,7 @@ console.log = function () {
 		try {
 			arguments[i] = Tome.unTome(arguments[i]);
 		} catch (e) {
-
+			console.error('Error unToming', e);
 		}
 	}
 
